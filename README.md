@@ -1,4 +1,5 @@
-🏥 Hospital Management System
+#🏥 Hospital Management System
+
 A full-stack web application designed to streamline hospital operations by managing doctor availability, patient appointments, and administrative functionalities.
 
 🎯 Objective
